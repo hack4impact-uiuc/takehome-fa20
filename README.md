@@ -1,5 +1,5 @@
 # The Challenge
-
+[![Run on Repl.it](https://repl.it/badge/github/jaymurali2/takehome-fa20)](https://repl.it/github/jaymurali2/takehome-fa20)
 ![Hack4Impact](https://uiuc.hack4impact.org/images/colored-logo.svg)
 
 The goal of this challenge is intended to expose you to and teach you some elements of our most common technical stack: a [React](https://reactjs.org/) frontend, and a Flask backend. We do not expect you to already be familiar with these technologies - so we will walk you through how to complete the exercise.
