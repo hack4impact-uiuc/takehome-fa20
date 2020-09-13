@@ -157,7 +157,7 @@ GET /restaurants?minRating=8
   "result": {
     "restaurants": [
       {
-        "id": 2, 
+        "id": 1, 
         "name": "Golden Harbor", 
         "rating": 10
       },
